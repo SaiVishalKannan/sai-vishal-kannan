@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sai-vishal-kannan/static/css/main.329aef81.css",
-    "main.js": "/sai-vishal-kannan/static/js/main.5d1d84ec.js",
+    "main.js": "/sai-vishal-kannan/static/js/main.ae74ca32.js",
     "index.html": "/sai-vishal-kannan/index.html",
     "main.329aef81.css.map": "/sai-vishal-kannan/static/css/main.329aef81.css.map",
-    "main.5d1d84ec.js.map": "/sai-vishal-kannan/static/js/main.5d1d84ec.js.map"
+    "main.ae74ca32.js.map": "/sai-vishal-kannan/static/js/main.ae74ca32.js.map"
   },
   "entrypoints": [
     "static/css/main.329aef81.css",
-    "static/js/main.5d1d84ec.js"
+    "static/js/main.ae74ca32.js"
   ]
 }
